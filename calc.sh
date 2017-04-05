@@ -1,3 +1,5 @@
+//this is  a simple calculator using shell script
+
 clear
 sum=0
 i="y"
